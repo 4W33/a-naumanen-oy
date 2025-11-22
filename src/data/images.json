@@ -1,0 +1,26 @@
+{
+  "logo": "https://www.anaumanen.fi/media/logo-2.png",
+  "certifications": [
+    "https://www.anaumanen.fi/media/tiedostot/cache/aaa-logo-2020-fi-300x189.png",
+    "https://www.anaumanen.fi/media/cache/ja-e2-95-a0esenyritys_banneri_25_150x75_fin_sininen-150x75.png",
+    "https://www.anaumanen.fi/media/cache/kl-menestyja-cc-88t-sinetti-2025-fi-rgb-200px-193x193.png",
+    "https://www.anaumanen.fi/media/cache/dun-bradstreet-alhaisin-riskiluokka-1-logo-2023-1-299x353,q=85.jpg",
+    "https://www.anaumanen.fi/media/tiedostot/lk_valkoinen_rgb.jpg",
+    "https://www.anaumanen.fi/media/cache/standing_black_1080x952-227x200.png"
+  ],
+  "services": {
+    "Pääurakointi": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    "Kalustustyöt ja asennukset": "https://images.unsplash.com/photo-1556912172-45b7abe8b7e1?w=800&q=80",
+    "Märkätilaremontit": "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=800&q=80",
+    "Liiketilasaneeraukset": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+    "Tilamuutostyöt": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=800&q=80",
+    "Huoneistoremontit": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&q=80",
+    "Lattioiden pinnoitus ja päällystystyöt": "https://images.unsplash.com/photo-1581858726788-75bc0f6a952d?w=800&q=80",
+    "Maalaus ja tasoitustyöt": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=80",
+    "Julkisivukorjaukset": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80",
+    "Alakattoasennukset": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80",
+    "Purkutyöt": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=80"
+  },
+  "hero": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=2000&q=80",
+  "about": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=2000&q=80"
+}

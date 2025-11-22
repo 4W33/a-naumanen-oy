@@ -1,0 +1,498 @@
+{
+  "company": {
+    "name": "A. Naumanen Oy",
+    "ytunnus": "0721950-7",
+    "address": "Reunatie 38, 01830 Lepsämä",
+    "phone": "040 709 2505",
+    "phoneOffice": "050 339 6033",
+    "email": "office@anaumanenoy.fi",
+    "emailWork": "jaakko.naumanen@anaumanenoy.fi"
+  },
+  "hero": {
+    "title1": "A. Naumanen Oy– luotettava, laadukas, täsmällinen",
+    "title2": "Rakennuspalvelua Uudellamaalla – liikekiinteistöistä koteihin",
+    "title3": "Meiltä saat koko hankkeesi toteutuksen. Helppoa palvelua, vai mitä?"
+  },
+  "content": {
+    "tagline": "Laatua rakentamiseen. Tarjoamme rakennus- ja remonttipalvelut koko pääkaupunkiseudun ja Uudenmaan alueella. | Helsinki, Espoo, Vantaa",
+    "description": "A. Naumanen Oy on rakennus- ja remontointipalveluihin erikoistunut yritys jo yli 30 vuoden kokemuksella. Palvelemme sekä yrityksiä että yksityisiä kaikenlaisissa remontti- ja rakennushankkeissa. Saneeraamme laadulla niin liiketilat kuin julkiset paikat siinä missä kodit ja huoneistotkin. Täyden palvelun rakennusliikkeenä pystymme toteuttamaan projektisi helposti kokonaisurakointina.",
+    "sections": [
+      {
+        "heading": "Kaikki palikat täydelliseen rakennuspalveluun",
+        "content": "Kun koko lystin saa yhdeltä yritykseltä, palvelun tilaaminen on harvinaisen helppoa. Me hoidamme kaiken, mitä työ vaatii tullakseen täysin valmiiksi. Tavoitteemme on löytää parhaat ja kustannustehokkaat ratkaisut niin sinun kuin asiakkaidesi tarpeisiin."
+      },
+      {
+        "heading": "Apuna tutut ja luotettavat yhteistyökumppanit",
+        "content": "Kattava yhteistyökumppaneiden verkosto mahdollistaa laadukkaat palvelumme. Verkostoon ovat kuuluneet jo vuosikymmenien ajan tutut ja luotettavat yhteistyökumppanit. Yhdessä tekeminen mahdollistaa rakentamisen toteuttamisen tarpeidesi mukaan - helposti, luotettavasti ja mutkattomasti."
+      }
+    ]
+  },
+  "services": {
+    "mainHeading": "Rakennuspalvelut",
+    "intro": "Millaista rakennuspalvelua tarvitset? Teemme työt toiveidesi mukaan. Palvelemme alueilla Helsinki, Vantaa, Espoo ja muu Uusimaa.",
+    "description": "Olemme erikoistuneet päätoteuttajana saneeraus- ja remonttikohteisiin. Liiketilasaneeraukset, pienet ja suuret tilamuutostyöt sekä huoneistoremontit ja julkisivukorjaukset kuuluvat vahvasti erityisosaamiseemme. Vuosien saatossa olemme saaneet joukon tyytyväisiä yritys- ja yksityisasiakkaita hyvän rakennuspalvelun ja laadukkaan työnjäljen ansiosta.",
+    "list": [
+      "Pääurakointi",
+      "Kalustustyöt ja asennukset",
+      "Märkätilaremontit",
+      "Liiketilasaneeraukset",
+      "Tilamuutostyöt",
+      "Huoneistoremontit",
+      "Lattioiden pinnoitus ja päällystystyöt",
+      "Maalaus ja tasoitustyöt",
+      "Julkisivukorjaukset",
+      "Alakattoasennukset",
+      "Purkutyöt"
+    ]
+  },
+  "references": {
+    "intro": "Olemme rakentaneet ja remontoineet niin yrityksille kuin yksityisille erilaisia kohteita liiketiloista toimistoihin, ravintoloihin, koteihin ja moniin muihin Uudenmaan alueella.",
+    "items": [
+      {
+        "year": "2025",
+        "title": "Metsäpurontie 16/ Wanha Pehtoori leipomomyymälä, Helsinki",
+        "description": "Leipomo- ja myymälätilojen rakennus- ja muutostyöt"
+      },
+      {
+        "year": "2025",
+        "title": "Pihlajatie 43, Helsinki",
+        "description": "Märkätilaremontti kph + wc"
+      },
+      {
+        "year": "2025",
+        "title": "Asunto Oy Säästö-Teerelä, Espoo",
+        "description": "Huoneiston sisäilma- ja kosteusvauriosaneeraus"
+      },
+      {
+        "year": "2024",
+        "title": "Mansikkatie 8, Espoo",
+        "description": "Terassilaatoituksien korjaustyöt ja rappauskorjaukset"
+      },
+      {
+        "year": "2024",
+        "title": "Asunto Oy Pohjantie 4, Espoo",
+        "description": "Huoneistosaneeraus / kosteusvauriokorjaukset"
+      },
+      {
+        "year": "2024",
+        "title": "Gunillankuja 2, Helsinki",
+        "description": "Huoneistosaneeraus"
+      },
+      {
+        "year": "2024",
+        "title": "Valakuja 10, Espoo",
+        "description": "Toimistotilojen kosteusvauriokorjaustyöt"
+      },
+      {
+        "year": "2024",
+        "title": "Sienikuja 6, Helsinki",
+        "description": "Toimisto- ja tuotantotilojen tilamuutostyöt"
+      },
+      {
+        "year": "2023",
+        "title": "Mannerheimintie 33, Helsinki",
+        "description": "Asunnon märkätilaremontti kph + wc"
+      },
+      {
+        "year": "2023",
+        "title": "Fincoat Oy, Riihimäki",
+        "description": "Toimisto- ja sosiaalitilojen tilamuutostyöt"
+      },
+      {
+        "year": "2023",
+        "title": "As Oy Kluuvinahde, Espoo",
+        "description": "Asunnon kosteusvauriokorjastyöt"
+      },
+      {
+        "year": "2023",
+        "title": "Temppelikatu 17, Helsinki",
+        "description": "Asunnon märkätilaremontti kph + wc"
+      },
+      {
+        "year": "2023",
+        "title": "Snellmanninkatu, Helsinki",
+        "description": "Asunnon märkätilaremontti kph + wc"
+      },
+      {
+        "year": "2023",
+        "title": "Saunalahdentie 5, Helsinki",
+        "description": "Asuntojen kylpyhuone- ja wc-tilojen saneeraus- ja korjaustyöt"
+      },
+      {
+        "year": "2023",
+        "title": "Roberts Coffee Jugend, Helsinki",
+        "description": "Kahvilan muutostyöt"
+      },
+      {
+        "year": "2023",
+        "title": "Lanterna Masku, Helsinki",
+        "description": "Sosiaalitilojen tilamuutostyöt"
+      },
+      {
+        "year": "2023",
+        "title": "Hiihtäjäntie 1-3, Helsinki",
+        "description": "Märkätilaremontti kph/wc"
+      },
+      {
+        "year": "2023",
+        "title": "Haarakaari 45, Tuusula",
+        "description": "Halli-/tuotantotilojen lattioiden epoksipinnoitteiden uusiminen"
+      },
+      {
+        "year": "2023",
+        "title": "Myllynummentie 6, Kerava",
+        "description": "Tilamuutostyöt"
+      },
+      {
+        "year": "2023",
+        "title": "As Oy Konalanrinne 5, Helsinki",
+        "description": "Linjasaneerauksen rakennustekniset työt"
+      },
+      {
+        "year": "2023",
+        "title": "Roberts Coffee Oulu",
+        "description": "Kahvilan kalustustyöt"
+      },
+      {
+        "year": "2022",
+        "title": "Roberts Coffee Stockmann, Helsinki",
+        "description": "Kahvilan kalustustyöt"
+      },
+      {
+        "year": "2022",
+        "title": "As Oy Tapiontammi, Espoo",
+        "description": "Parvekepilareiden kunnostustyö"
+      },
+      {
+        "year": "2022",
+        "title": "Ryytimaantie 3, Vantaa",
+        "description": "Vesivahingon korjaussaneeraus"
+      },
+      {
+        "year": "2022",
+        "title": "Mankkaa, Espoo",
+        "description": "Omakotitalon kylpyhuoneiden vesieristys- ja laatoitustyöt"
+      },
+      {
+        "year": "2022",
+        "title": "Rantatöyry, Helsinki",
+        "description": "Kylpyhuoneen ja wc:n laatoitus sekä huoneiston, märkätilojen ja parvekkeen lattioiden kunnostus"
+      },
+      {
+        "year": "2022",
+        "title": "Uudenmaan Vammaispalvelusäätiö sr, Palvelukoti Pukkilankaari, Karjalohja",
+        "description": "Keittiön muutostyöt"
+      },
+      {
+        "year": "2022",
+        "title": "Mattilan Palvelutalo Oy, Palvelukoti Katajankaari, Lohja",
+        "description": "Märkätilojen muutos- ja korjaustyöt"
+      },
+      {
+        "year": "2021",
+        "title": "Kauppakeskus Dixi, Kotipizza, Vantaa",
+        "description": "Pizzerian rakennustyöt"
+      },
+      {
+        "year": "2021",
+        "title": "Asunto Oy Tapiontonttu, Espoo",
+        "description": "Sisäänkäyntijulkisivun peruskorjaus"
+      },
+      {
+        "year": "2021",
+        "title": "Vermon ravirata, Helsinki",
+        "description": "Tallikahvion kattoterassin rakentaminen"
+      },
+      {
+        "year": "2021",
+        "title": "Katajaharjuntie 17, Helsinki",
+        "description": "Huoneiston saneeraustyöt"
+      },
+      {
+        "year": "2021",
+        "title": "Punavarpusentie 26, Espoo",
+        "description": "Märkätilojen saneeraustyöt"
+      },
+      {
+        "year": "2020",
+        "title": "Asunto Oy Merilauri, Espoo",
+        "description": "Asuntojen ulkoseinien korjaustyö"
+      },
+      {
+        "year": "2020",
+        "title": "Asunto Oy Helsingin Tammitie 6, Helsinki",
+        "description": "Omakotitalon parvekkeen korjaus"
+      },
+      {
+        "year": "2020",
+        "title": "Kauppakeskus Arabia, Kahvila Picnic, Helsinki",
+        "description": "Kahvilan rakennustyöt"
+      },
+      {
+        "year": "2020",
+        "title": "Helenankuja 2 B, Kauniainen",
+        "description": "Omakotitalon saneeraus, julkisivusaneeraus ja sisäpuolen saneeraus"
+      },
+      {
+        "year": "2020",
+        "title": "Kauppakeskus Lanterna, Kodin 1 / Metropoli, Helsinki",
+        "description": "Liiketilojen saneeraus- ja tilamuutostyöt"
+      },
+      {
+        "year": "2020",
+        "title": "Kauppakeskus Lanterna, Aitokaluste",
+        "description": "Liiketilan saneeraus- ja tilamuutostyöt"
+      },
+      {
+        "year": "2020",
+        "title": "Kauppakeskus Lanterna, Isku / Unikulma",
+        "description": "Liiketilojen saneeraus- ja tilamuutostyöt"
+      },
+      {
+        "year": "2020",
+        "title": "Kauppakeskus Dixi, Terveystalon laajennus, Vantaa",
+        "description": "Uusien toimitilojen rakennus- ja tilamuutostyöt"
+      },
+      {
+        "year": "2019",
+        "title": "Uomakuja 6 C 52, Vantaa",
+        "description": "Asuinhuoneiston saneeraus"
+      },
+      {
+        "year": "2019",
+        "title": "Otis Oy, Helsinki",
+        "description": "Toimiston muutostyöt"
+      },
+      {
+        "year": "2019",
+        "title": "Picnic Mikonkatu, Helsinki",
+        "description": "Kahvilan muutostyöt"
+      },
+      {
+        "year": "2019",
+        "title": "Kytömaantie 14, Kerava",
+        "description": "Sosiaali- ja pukuhuonetilojen rakennustyöt"
+      },
+      {
+        "year": "2019",
+        "title": "Jalavatie 9 A 6, Helsinki",
+        "description": "Asuinhuoneiston muutostyöt"
+      },
+      {
+        "year": "2019",
+        "title": "Viestitie 43 E, Vantaa",
+        "description": "Kylpyhuoneen ja saunan saneeraustyöt"
+      },
+      {
+        "year": "2019",
+        "title": "Kauppakeskus Dixi, Asianajotoimisto Jurentia, Vantaa",
+        "description": "Toimistotilojen saneeraustyöt"
+      },
+      {
+        "year": "2019",
+        "title": "Voutilan Autohuolto Oy, Vantaa",
+        "description": "Autokorjaamon rakennustyöt"
+      },
+      {
+        "year": "2019",
+        "title": "Lähderanta 20 B 25, Espoo",
+        "description": "Asuinhuoneiston saneeraustyöt"
+      },
+      {
+        "year": "2019",
+        "title": "Picnic Dixi, Vantaa",
+        "description": "Kahvilan saneeraus- ja muutostyöt"
+      },
+      {
+        "year": "2019",
+        "title": "Kärcher Center, Vantaa",
+        "description": "Myymälän ja toimistotilojen saneeraus- ja tilamuutostyöt"
+      },
+      {
+        "year": "2019",
+        "title": "Picnic Tripla, Helsinki",
+        "description": "Kahvilan rakennustyöt"
+      },
+      {
+        "year": "2019",
+        "title": "Kärcher Center, Vantaa",
+        "description": "Autopesulan rakennustyöt"
+      },
+      {
+        "year": "2019",
+        "title": "Haukilahden päiväkoti, Espoo",
+        "description": "Päiväkodin rakennus- ja muutostyöt"
+      },
+      {
+        "year": "2018",
+        "title": "Vermon Ravirata, Helsinki",
+        "description": "Uuden terassialueen rakennustyöt"
+      },
+      {
+        "year": "2018",
+        "title": "Liikekeskus Lanterna / Vepsäläinen, Helsinki",
+        "description": "Liiketilan saneeraus- ja muutostyöt"
+      },
+      {
+        "year": "2018",
+        "title": "Liikekeskus Lanterna / Masku, Helsinki",
+        "description": "Liiketilan saneeraus- ja muutostyöt"
+      },
+      {
+        "year": "2018",
+        "title": "Picnic Mikonkatu, Helsinki",
+        "description": "Uuden kahvilan rakennustyöt"
+      },
+      {
+        "year": "2018",
+        "title": "Picnic Ratina, Tampere",
+        "description": "Uuden kahvilan rakennustyöt"
+      },
+      {
+        "year": "2018",
+        "title": "Picnic Lauttasaarentie",
+        "description": "Ulkoterassin rakennustyöt"
+      },
+      {
+        "year": "2018",
+        "title": "Autopesula Myyrmanni, Vantaa",
+        "description": "Uuden autopesulan rakennustyöt"
+      },
+      {
+        "year": "2018",
+        "title": "Picnic Kasarmikatu, Helsinki",
+        "description": "Kahvilan saneeraus- ja muutostyöt"
+      },
+      {
+        "year": "2018",
+        "title": "Fincoat Oy, Riihimäki",
+        "description": "Teollisuushallin laajennustyöt"
+      },
+      {
+        "year": "2018",
+        "title": "Asianajotoimisto Bird & Bird Oy, Helsinki",
+        "description": "Toimistohuoneiden saneeraus- ja muutostyöt"
+      },
+      {
+        "year": "2018",
+        "title": "Vermon ravirata, Espoo",
+        "description": "Uuden podium-alueen rakennustyöt"
+      },
+      {
+        "year": "2018",
+        "title": "Fincoat Oy, Riihimäki",
+        "description": "Sosiaalitilojen saneeraus- muutostyöt"
+      },
+      {
+        "year": "2018",
+        "title": "Picnic Jumbo, Vantaa",
+        "description": "Kahvilan saneeraus- ja muutostyöt"
+      },
+      {
+        "year": "2018",
+        "title": "Sibeliuksenkatu 5 A 1, Hämeenlinna",
+        "description": "Huoneiston saneeraus"
+      },
+      {
+        "year": "2018",
+        "title": "Onninen Express, Helsinki",
+        "description": "Alakattotyöt"
+      },
+      {
+        "year": "2018",
+        "title": "Vermon ravirata, Espoo",
+        "description": "Tallikahvion muutostyöt"
+      },
+      {
+        "year": "2017",
+        "title": "Psykoterapiakeskus Vastaamo, Vantaa",
+        "description": "Uusien toimitilojen rakennus- ja tilamuutostyöt"
+      },
+      {
+        "year": "2017",
+        "title": "Puolarniitynkuja 6 B, Espoo",
+        "description": "Omakotitalon julkisivusaneeraus"
+      },
+      {
+        "year": "2017",
+        "title": "Mehiläinen, Vantaa",
+        "description": "WC-tilojen saneeraus sekä käytävä- ja hoitohuoneiden saneeraustyöt"
+      },
+      {
+        "year": "2017",
+        "title": "Picnic Yrjönkatu, Helsinki",
+        "description": "Kahvilan saneeraus- ja muutostyöt"
+      },
+      {
+        "year": "2017",
+        "title": "Picnic Easton, Helsinki",
+        "description": "Kahvilan kalustustyöt"
+      },
+      {
+        "year": "2017",
+        "title": "Picnic Herttoniemi",
+        "description": "Kahvilan saneeraus- ja muutostyöt"
+      },
+      {
+        "year": "2016",
+        "title": "Asianajotoimisto Bird & Bird Oy, Helsinki",
+        "description": "Toimistosaneeraus 7. ja 9. kerros"
+      },
+      {
+        "year": "2016",
+        "title": "Cafe Nuvo, Kauppakeskus Myyrmanni, Vantaa",
+        "description": "Ravintolan rakennus- ja muutostyöt"
+      },
+      {
+        "year": "2016",
+        "title": "Picnic Valkea, Oulu",
+        "description": "Kahvilan kalustus- ja maalaustyöt"
+      },
+      {
+        "year": "2016",
+        "title": "Kalevankatu 25, Helsinki",
+        "description": "Huoneiston saneeraus- ja maalaustyöt"
+      },
+      {
+        "year": "2016",
+        "title": "As Oy Kettutie 4, Helsinki",
+        "description": "Pyöräkellareiden saneeraustyöt 3 kpl"
+      },
+      {
+        "year": "2016",
+        "title": "Lifeline Ventures Fund Management Oy, Helsinki",
+        "description": "Toimistotilojen purkutyöt"
+      },
+      {
+        "year": "2016",
+        "title": "Kauppakeskus Myyrmanni / sisäänkäynnit, Vantaa",
+        "description": "Kauppakeskuksen sisäänkäyntien rakennus- ja muutostyöt"
+      },
+      {
+        "year": "2016",
+        "title": "Ravintola Red Onion, Vantaa",
+        "description": "Ravintolan rakennus- ja muutostyöt"
+      },
+      {
+        "year": "2016",
+        "title": "Asianajotoimisto Bird & Bird Oy, Helsinki",
+        "description": "Toimistohuoneiden saneeraus- ja muutostyöt"
+      },
+      {
+        "year": "2016",
+        "title": "Tiger Store, Kauppakeskus Myyrmanni, Vantaa",
+        "description": "Uuden liiketilan rakennustyöt"
+      },
+      {
+        "year": "2016",
+        "title": "Suopolku 6 B, Klaukkala",
+        "description": "Kylpyhuoneen ja saunan saneeraustyöt"
+      },
+      {
+        "year": "2016",
+        "title": "Pakkaustutkimuskeskus, Kauppakeskus Myyrmanni, Vantaa",
+        "description": "Toimitilojen saneeraus- ja muutostyöt"
+      }
+    ]
+  }
+}

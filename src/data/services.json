@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Pääurakointi",
+    "icon": "🏗️",
+    "description": "Kokonaisurakointi projektistasi alusta loppuun. Hoidamme kaiken suunnittelusta toteutukseen."
+  },
+  {
+    "name": "Märkätilaremontit",
+    "icon": "🚿",
+    "description": "Kylpyhuoneiden, wc-tilojen ja muiden märkätilojen perusteelliset remontit ja saneeraukset."
+  },
+  {
+    "name": "Liiketilasaneeraukset",
+    "icon": "🏪",
+    "description": "Liiketilojen ja toimistotilojen kunnostus, muutostyöt ja modernisointi."
+  },
+  {
+    "name": "Huoneistoremontit",
+    "icon": "🏠",
+    "description": "Asuntojen ja huoneistojen sisäremontit, saneeraukset ja muutostyöt."
+  },
+  {
+    "name": "Tilamuutostyöt",
+    "icon": "🔨",
+    "description": "Tilojen uudelleenjärjestelyt, laajennukset ja muutostyöt."
+  },
+  {
+    "name": "Julkisivukorjaukset",
+    "icon": "🏛️",
+    "description": "Rakennusten julkisivujen korjaus, kunnostus ja uusiminen."
+  },
+  {
+    "name": "Lattioiden pinnoitus",
+    "icon": "🪵",
+    "description": "Lattioiden pinnoitus, päällystys ja kunnostustyöt eri materiaaleilla."
+  },
+  {
+    "name": "Maalaus ja tasoitustyöt",
+    "icon": "🎨",
+    "description": "Ammattitaitoinen maalaus ja tasoitustyöt sisä- ja ulkotiloissa."
+  },
+  {
+    "name": "Kalustustyöt ja asennukset",
+    "icon": "🔧",
+    "description": "Kalusteiden asennus, kiinteät kalusteet ja muut asennustyöt."
+  },
+  {
+    "name": "Alakattoasennukset",
+    "icon": "📐",
+    "description": "Alakattojen suunnittelu, asennus ja kunnostus."
+  },
+  {
+    "name": "Purkutyöt",
+    "icon": "⚒️",
+    "description": "Turvalliset ja järjestelmälliset purkutyöt ennen remonttia."
+  }
+]
+
