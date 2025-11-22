@@ -18,7 +18,8 @@ const Services = () => {
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6 md:gap-8 mb-12 sm:mb-16 md:mb-20">
           {services.map((service, index) => {
-            const serviceImage = imagesData.services[service as keyof typeof imagesData.services] || imagesData.services["Pääurakointi"]
+            const serviceKey = service as keyof typeof imagesData.services
+            const serviceImage = (imagesData.services[serviceKey] || imagesData.services["Pääurakointi"]) as string
             return (
               <div
                 key={index}
