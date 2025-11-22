@@ -4,6 +4,11 @@ import imagesData from '../data/images.json'
 const Services = () => {
   const services = scrapedData.services.list
 
+  const getServiceImage = (serviceName: string): string => {
+    const services = imagesData.services as Record<string, string>
+    return services[serviceName] || services["Pääurakointi"] || ""
+  }
+
   return (
     <section id="palvelut" className="section-padding bg-white">
       <div className="container-custom">
@@ -18,8 +23,7 @@ const Services = () => {
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6 md:gap-8 mb-12 sm:mb-16 md:mb-20">
           {services.map((service, index) => {
-            const serviceKey = service as keyof typeof imagesData.services
-            const serviceImage = (imagesData.services[serviceKey] || imagesData.services["Pääurakointi"]) as string
+            const serviceImage = getServiceImage(service)
             return (
               <div
                 key={index}
