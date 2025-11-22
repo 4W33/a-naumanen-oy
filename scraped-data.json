@@ -1,0 +1,114 @@
+{
+  "company": {
+    "name": "A. Naumanen Oy",
+    "ytunnus": "0721950-7",
+    "address": "Reunatie 38, 01830 Lepsämä",
+    "phone": "040 709 2505",
+    "phoneOffice": "050 339 6033",
+    "email": "office@anaumanenoy.fi",
+    "emailWork": "jaakko.naumanen@anaumanenoy.fi"
+  },
+  "hero": {
+    "title1": "A. Naumanen Oy– luotettava, laadukas, täsmällinen",
+    "title2": "Rakennuspalvelua Uudellamaalla – liikekiinteistöistä koteihin",
+    "title3": "Meiltä saat koko hankkeesi toteutuksen. Helppoa palvelua, vai mitä?"
+  },
+  "content": {
+    "tagline": "Laatua rakentamiseen. Tarjoamme rakennus- ja remonttipalvelut koko pääkaupunkiseudun ja Uudenmaan alueella. | Helsinki, Espoo, Vantaa",
+    "description": "A. Naumanen Oy on rakennus- ja remontointipalveluihin erikoistunut yritys jo yli 30 vuoden kokemuksella. Palvelemme sekä yrityksiä että yksityisiä kaikenlaisissa remontti- ja rakennushankkeissa. Saneeraamme laadulla niin liiketilat kuin julkiset paikat siinä missä kodit ja huoneistotkin. Täyden palvelun rakennusliikkeenä pystymme toteuttamaan projektisi helposti kokonaisurakointina.",
+    "sections": [
+      {
+        "heading": "Kaikki palikat täydelliseen rakennuspalveluun",
+        "content": "Kun koko lystin saa yhdeltä yritykseltä, palvelun tilaaminen on harvinaisen helppoa. Me hoidamme kaiken, mitä työ vaatii tullakseen täysin valmiiksi. Tavoitteemme on löytää parhaat ja kustannustehokkaat ratkaisut niin sinun kuin asiakkaidesi tarpeisiin."
+      },
+      {
+        "heading": "Apuna tutut ja luotettavat yhteistyökumppanit",
+        "content": "Kattava yhteistyökumppaneiden verkosto mahdollistaa laadukkaat palvelumme. Verkostoon ovat kuuluneet jo vuosikymmenien ajan tutut ja luotettavat yhteistyökumppanit. Yhdessä tekeminen mahdollistaa rakentamisen toteuttamisen tarpeidesi mukaan - helposti, luotettavasti ja mutkattomasti."
+      }
+    ]
+  },
+  "services": {
+    "mainHeading": "Rakennuspalvelut",
+    "intro": "Millaista rakennuspalvelua tarvitset? Teemme työt toiveidesi mukaan. Palvelemme alueilla Helsinki, Vantaa, Espoo ja muu Uusimaa.",
+    "description": "Olemme erikoistuneet päätoteuttajana saneeraus- ja remonttikohteisiin. Liiketilasaneeraukset, pienet ja suuret tilamuutostyöt sekä huoneistoremontit ja julkisivukorjaukset kuuluvat vahvasti erityisosaamiseemme. Vuosien saatossa olemme saaneet joukon tyytyväisiä yritys- ja yksityisasiakkaita hyvän rakennuspalvelun ja laadukkaan työnjäljen ansiosta.",
+    "list": [
+      "Pääurakointi",
+      "Kalustustyöt ja asennukset",
+      "Märkätilaremontit",
+      "Liiketilasaneeraukset",
+      "Tilamuutostyöt",
+      "Huoneistoremontit",
+      "Lattioiden pinnoitus ja päällystystyöt",
+      "Maalaus ja tasoitustyöt",
+      "Julkisivukorjaukset",
+      "Alakattoasennukset",
+      "Purkutyöt"
+    ]
+  },
+  "references": {
+    "intro": "Olemme rakentaneet ja remontoineet niin yrityksille kuin yksityisille erilaisia kohteita liiketiloista toimistoihin, ravintoloihin, koteihin ja moniin muihin Uudenmaan alueella.",
+    "items": [
+      {
+        "year": "2025",
+        "title": "Metsäpurontie 16/ Wanha Pehtoori leipomomyymälä, Helsinki",
+        "description": "Leipomo- ja myymälätilojen rakennus- ja muutostyöt"
+      },
+      {
+        "year": "2025",
+        "title": "Pihlajatie 43, Helsinki",
+        "description": "Märkätilaremontti kph + wc"
+      },
+      {
+        "year": "2025",
+        "title": "Asunto Oy Säästö-Teerelä, Espoo",
+        "description": "Huoneiston sisäilma- ja kosteusvauriosaneeraus"
+      },
+      {
+        "year": "2024",
+        "title": "Mansikkatie 8, Espoo",
+        "description": "Terassilaatoituksien korjaustyöt ja rappauskorjaukset"
+      },
+      {
+        "year": "2024",
+        "title": "Asunto Oy Pohjantie 4, Espoo",
+        "description": "Huoneistosaneeraus / kosteusvauriokorjaukset"
+      },
+      {
+        "year": "2024",
+        "title": "Gunillankuja 2, Helsinki",
+        "description": "Huoneistosaneeraus"
+      },
+      {
+        "year": "2024",
+        "title": "Valakuja 10, Espoo",
+        "description": "Toimistotilojen kosteusvauriokorjaustyöt"
+      },
+      {
+        "year": "2024",
+        "title": "Sienikuja 6, Helsinki",
+        "description": "Toimisto- ja tuotantotilojen tilamuutostyöt"
+      },
+      {
+        "year": "2023",
+        "title": "Mannerheimintie 33, Helsinki",
+        "description": "Asunnon märkätilaremontti kph + wc"
+      },
+      {
+        "year": "2023",
+        "title": "Fincoat Oy, Riihimäki",
+        "description": "Toimisto- ja sosiaalitilojen tilamuutostyöt"
+      },
+      {
+        "year": "2023",
+        "title": "Roberts Coffee Jugend, Helsinki",
+        "description": "Kahvilan muutostyöt"
+      },
+      {
+        "year": "2023",
+        "title": "Saunalahdentie 5, Helsinki",
+        "description": "Asuntojen kylpyhuone- ja wc-tilojen saneeraus- ja korjaustyöt"
+      }
+    ]
+  }
+}
+
