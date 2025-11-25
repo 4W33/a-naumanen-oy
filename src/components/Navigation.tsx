@@ -5,29 +5,32 @@ const Navigation = () => {
   const [isOpen, setIsOpen] = useState(false)
 
   return (
-    <nav className="fixed top-0 left-0 right-0 z-50 bg-gray-900/95 backdrop-blur-md shadow-xl border-b border-gray-800">
+    <nav className="fixed top-0 left-0 right-0 z-50 bg-gray-900/95 backdrop-blur-xl shadow-xl border-b border-gray-800/50 apple-transition">
       <div className="container-custom">
-        <div className="flex items-center justify-between h-20 sm:h-24">
+        <div className="flex items-center justify-between h-16 sm:h-20">
           <a href="#etusivu" className="flex items-center">
             <img 
               src={imagesData.logo} 
               alt="A. Naumanen Oy" 
-              className="h-12 sm:h-16 md:h-20 w-auto brightness-0 invert filter"
+              className="h-10 sm:h-12 md:h-14 w-auto brightness-0 invert filter"
             />
           </a>
           
           {/* Desktop Navigation */}
-          <div className="hidden md:flex items-center space-x-10">
-            <a href="#etusivu" className="text-gray-300 hover:text-white font-semibold transition-colors text-lg">
+          <div className="hidden md:flex items-center space-x-6">
+            <a href="#etusivu" className="text-gray-300 hover:text-white font-semibold apple-transition text-base relative group">
               Etusivu
+              <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-white group-hover:w-full transition-all duration-300"></span>
             </a>
-            <a href="#palvelut" className="text-gray-300 hover:text-white font-semibold transition-colors text-lg">
+            <a href="#palvelut" className="text-gray-300 hover:text-white font-semibold apple-transition text-base relative group">
               Palvelut
+              <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-white group-hover:w-full transition-all duration-300"></span>
             </a>
-            <a href="#referenssit" className="text-gray-300 hover:text-white font-semibold transition-colors text-lg">
+            <a href="#referenssit" className="text-gray-300 hover:text-white font-semibold apple-transition text-base relative group">
               Referenssit
+              <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-white group-hover:w-full transition-all duration-300"></span>
             </a>
-            <a href="#yhteystiedot" className="bg-white text-gray-900 px-8 py-3 rounded-full font-bold hover:bg-gray-100 transition-all duration-300 transform hover:scale-105 active:scale-95 text-lg">
+            <a href="#yhteystiedot" className="bg-white text-gray-900 px-6 py-2 rounded-full font-bold hover:bg-gray-100 apple-transition transform hover:scale-105 active:scale-95 text-base shadow-lg hover:shadow-xl">
               Ota yhteyttä
             </a>
           </div>
@@ -50,17 +53,17 @@ const Navigation = () => {
 
         {/* Mobile Navigation */}
         {isOpen && (
-          <div className="md:hidden pb-6 space-y-4 pt-4">
-            <a href="#etusivu" className="block text-gray-300 hover:text-white font-semibold transition-colors text-lg py-2" onClick={() => setIsOpen(false)}>
+          <div className="md:hidden pb-4 space-y-3 pt-3">
+            <a href="#etusivu" className="block text-gray-300 hover:text-white font-semibold transition-colors text-base py-2" onClick={() => setIsOpen(false)}>
               Etusivu
             </a>
-            <a href="#palvelut" className="block text-gray-300 hover:text-white font-semibold transition-colors text-lg py-2" onClick={() => setIsOpen(false)}>
+            <a href="#palvelut" className="block text-gray-300 hover:text-white font-semibold transition-colors text-base py-2" onClick={() => setIsOpen(false)}>
               Palvelut
             </a>
-            <a href="#referenssit" className="block text-gray-300 hover:text-white font-semibold transition-colors text-lg py-2" onClick={() => setIsOpen(false)}>
+            <a href="#referenssit" className="block text-gray-300 hover:text-white font-semibold transition-colors text-base py-2" onClick={() => setIsOpen(false)}>
               Referenssit
             </a>
-            <a href="#yhteystiedot" className="block bg-white text-gray-900 px-8 py-4 rounded-full font-bold hover:bg-gray-100 transition-all duration-300 transform active:scale-95 text-center text-lg" onClick={() => setIsOpen(false)}>
+            <a href="#yhteystiedot" className="block bg-white text-gray-900 px-6 py-3 rounded-full font-bold hover:bg-gray-100 transition-all duration-300 transform active:scale-95 text-center text-base" onClick={() => setIsOpen(false)}>
               Ota yhteyttä
             </a>
           </div>

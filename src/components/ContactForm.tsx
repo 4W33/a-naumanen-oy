@@ -23,12 +23,12 @@ const ContactForm = () => {
   }
 
   return (
-    <form onSubmit={handleSubmit} className="bg-white rounded-2xl sm:rounded-3xl p-6 sm:p-8 md:p-12 shadow-xl">
-      <h3 className="text-2xl sm:text-3xl md:text-4xl font-black text-gray-900 mb-6 sm:mb-8">Yhteydenottolomake</h3>
+    <form onSubmit={handleSubmit} className="bg-white rounded-xl sm:rounded-2xl p-4 sm:p-6 md:p-8 shadow-xl card-hover">
+      <h3 className="text-xl sm:text-2xl md:text-3xl font-black text-gray-900 mb-4 sm:mb-6">Yhteydenottolomake</h3>
       
-      <div className="space-y-4 sm:space-y-6">
+      <div className="space-y-3 sm:space-y-4">
         <div>
-          <label htmlFor="name" className="block text-base sm:text-lg font-bold text-gray-900 mb-2">
+          <label htmlFor="name" className="block text-sm sm:text-base font-bold text-gray-900 mb-1.5">
             Nimi *
           </label>
           <input
@@ -38,13 +38,13 @@ const ContactForm = () => {
             required
             value={formData.name}
             onChange={handleChange}
-            className="w-full px-4 sm:px-6 py-3 sm:py-4 border-2 border-gray-300 rounded-xl focus:border-gray-900 focus:outline-none text-base sm:text-lg touch-manipulation"
+            className="w-full px-3 sm:px-4 py-2.5 sm:py-3 border-2 border-gray-300 rounded-xl focus:border-gray-900 focus:outline-none text-sm sm:text-base touch-manipulation apple-transition focus:ring-2 focus:ring-gray-900/20"
             placeholder="Nimesi"
           />
         </div>
 
         <div>
-          <label htmlFor="phone" className="block text-base sm:text-lg font-bold text-gray-900 mb-2">
+          <label htmlFor="phone" className="block text-sm sm:text-base font-bold text-gray-900 mb-1.5">
             Puhelinnumero *
           </label>
           <input
@@ -54,13 +54,13 @@ const ContactForm = () => {
             required
             value={formData.phone}
             onChange={handleChange}
-            className="w-full px-4 sm:px-6 py-3 sm:py-4 border-2 border-gray-300 rounded-xl focus:border-gray-900 focus:outline-none text-base sm:text-lg touch-manipulation"
+            className="w-full px-3 sm:px-4 py-2.5 sm:py-3 border-2 border-gray-300 rounded-xl focus:border-gray-900 focus:outline-none text-sm sm:text-base touch-manipulation apple-transition focus:ring-2 focus:ring-gray-900/20"
             placeholder="Puhelinnumerosi"
           />
         </div>
 
         <div>
-          <label htmlFor="email" className="block text-base sm:text-lg font-bold text-gray-900 mb-2">
+          <label htmlFor="email" className="block text-sm sm:text-base font-bold text-gray-900 mb-1.5">
             Sähköposti *
           </label>
           <input
@@ -70,13 +70,13 @@ const ContactForm = () => {
             required
             value={formData.email}
             onChange={handleChange}
-            className="w-full px-4 sm:px-6 py-3 sm:py-4 border-2 border-gray-300 rounded-xl focus:border-gray-900 focus:outline-none text-base sm:text-lg touch-manipulation"
+            className="w-full px-3 sm:px-4 py-2.5 sm:py-3 border-2 border-gray-300 rounded-xl focus:border-gray-900 focus:outline-none text-sm sm:text-base touch-manipulation apple-transition focus:ring-2 focus:ring-gray-900/20"
             placeholder="sähköposti@example.com"
           />
         </div>
 
         <div>
-          <label htmlFor="message" className="block text-base sm:text-lg font-bold text-gray-900 mb-2">
+          <label htmlFor="message" className="block text-sm sm:text-base font-bold text-gray-900 mb-1.5">
             Lisätietoja
           </label>
           <textarea
@@ -85,14 +85,14 @@ const ContactForm = () => {
             rows={5}
             value={formData.message}
             onChange={handleChange}
-            className="w-full px-4 sm:px-6 py-3 sm:py-4 border-2 border-gray-300 rounded-xl focus:border-gray-900 focus:outline-none text-base sm:text-lg resize-none touch-manipulation"
+            className="w-full px-3 sm:px-4 py-2.5 sm:py-3 border-2 border-gray-300 rounded-xl focus:border-gray-900 focus:outline-none text-sm sm:text-base resize-none touch-manipulation"
             placeholder="Kerro meille projektistasi..."
           />
         </div>
 
         <button
           type="submit"
-          className="w-full bg-gray-900 text-white px-8 sm:px-10 py-4 sm:py-5 rounded-full font-black text-base sm:text-lg hover:bg-gray-800 transition-all duration-300 transform hover:scale-105 active:scale-95 shadow-xl touch-manipulation"
+          className="w-full bg-gray-900 text-white px-6 sm:px-8 py-3 sm:py-4 rounded-full font-black text-sm sm:text-base hover:bg-gray-800 apple-transition transform hover:scale-105 active:scale-95 shadow-xl hover:shadow-2xl touch-manipulation"
         >
           Lähetä
         </button>
